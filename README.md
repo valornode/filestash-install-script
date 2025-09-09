@@ -8,7 +8,7 @@ This is basically just a simplified way to install FileStash.
 
 
 ## How To Install
-```wget```
+```wget https://raw.githubusercontent.com/valornode/filestash-install-script/refs/heads/main/install_filestash.sh```
 
 ```chmod +x install_filestash.sh```
 
