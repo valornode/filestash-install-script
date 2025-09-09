@@ -9,7 +9,9 @@ This is basically just a simplified way to install FileStash.
 
 # How To Install
 ```wget```
+
 ```chmod +x install_filestash.sh```
+
 ```./ install_filestash.sh```
 
 # Credits
