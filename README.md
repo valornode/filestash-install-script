@@ -1,5 +1,5 @@
 
-#FileStash Install Script
+# FileStash Install Script
 
 
 ## Introduction
